@@ -23,7 +23,7 @@
 ## Output:
 ![image](https://github.com/d-kavinraja/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119875375/20031bc2-01a6-4e89-81b5-b42b1e2bf928)
 
-### Name: Kavinraja
+### Name: Kavinraja D
 ### Register Number: 212222240047
 
 ## Result:
